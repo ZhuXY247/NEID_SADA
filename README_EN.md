@@ -1,4 +1,4 @@
-# New Intent Discovery for Educational Dialogue Texts via Semantic-Aware Data Augmentation
+<h1 align="center">New Intent Discovery for Educational Dialogue Texts<br>via Semantic-Aware Data Augmentation</h1>
 
 <div align="center">
 

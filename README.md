@@ -1,4 +1,4 @@
-# 基于SADA的教育对话文本新意图发现
+<h1 align="center">基于SADA的教育对话文本新意图发现</h1>
 
 <div align="center">
 
