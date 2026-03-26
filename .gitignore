@@ -1,24 +1,14 @@
-# Python 虚拟环境
 venv/
 env/
 ENV/
 .venv/
 
-# Python 缓存文件
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
 
-# 数据文件（通常很大或有版权）
-data/
-data_external/
-*.tsv
-*.csv
-!requirements.txt
-
-# 模型文件（很大）
 model/
 *.bin
 *.pt
@@ -27,28 +17,23 @@ model/
 *.ckpt
 *.safetensors
 
-# 训练输出
 save_models/
 logs/
 *.log
 results.csv
 
-# IDE 配置（可选）
 .idea/
 .vscode/
 *.swp
 *.swo
 *~
 
-# 环境变量（可能有敏感信息）
 .env
 .env.local
 
-# 测试缓存
 .pytest_cache/
 .coverage
 htmlcov/
 
-# 系统文件
 .DS_Store
 Thumbs.db
