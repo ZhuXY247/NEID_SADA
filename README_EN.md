@@ -112,5 +112,5 @@ Running results will be saved to:
 
 This project references and adapts code from the following open-source projects:
 
-1. https://github.com/zhang-yu-wei/MTP-SADA
+1. https://github.com/zhang-yu-wei/MTP-CLNN
 2. https://github.com/WenxiongLiao/mask-bert
