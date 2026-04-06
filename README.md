@@ -113,5 +113,5 @@ bash SADA_talkmoves.sh 0,1,2,3
 
 本项目部分代码参考和改编自以下开源项目：
 
-1. GitHub: https://github.com/zhang-yu-wei/MTP-NEID
+1. GitHub: https://github.com/zhang-yu-wei/MTP-CLNN
 2. GitHub: https://github.com/WenxiongLiao/mask-bert
